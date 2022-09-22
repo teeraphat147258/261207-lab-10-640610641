@@ -24,6 +24,7 @@ let chatrooms = [
 
 export function readDB() {
   //read in-memory DB
+
   return chatrooms;
 }
 
